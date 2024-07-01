@@ -1,16 +1,14 @@
-### Hi, I'm Jeffrey 🤙🏽
+## Hi, I'm Jeffrey 🤙🏽
 
-<!--
-**JhookC/JhookC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me out!
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/JhookC-2D64BC?style=flat&logo=linkedin&labelColor=2D64BC&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjhookc%2F)
+![Static Badge](https://img.shields.io/badge/JhookC-D85140?style=flat&logo=gmail&logoColor=white&labelColor=D85140&link=mailto%3Ajhookc%40gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I currently Do
+
+- 🔭 I’m currently working at @Apploi
+- :computer: Most used line of code `git checkout ...`
+- 💬 Ask me about `homelabs` `home automation` `home networking` `home theater`
+- 😄 Nickname: JhookC.
+- ⚡ Fun fact: 🏋🏽 Gym rat, 🏊🏽‍♂️ swimmer and 🏃🏽 runner by Hobbie.
